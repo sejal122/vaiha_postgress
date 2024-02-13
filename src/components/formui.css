@@ -1,0 +1,23 @@
+.formDIV {
+    margin: 0 auto;
+    width: 60%;
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    position: absolute;
+    top: 7%;
+    left: 20%;
+}
+
+.label {
+    float: left !important;
+}
+
+.col {
+    padding: 10px;
+    margin: 10px;
+}
